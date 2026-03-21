@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-22
 - Removed unused variable declarations
 - Added type hints to helper functions
+
+## 2026-03-22
+- Improved log message formatting
+- Added .editorconfig for consistent formatting
